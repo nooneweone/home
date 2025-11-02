@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ontoformula.org/sitemap.xml
+Sitemap: https://nooneweone.org/sitemap.xml
